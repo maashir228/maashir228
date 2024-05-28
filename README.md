@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Aashir</h1>
-<h3 align="center">A passionate AI and Automation Enthusiast from Pakistan.</h3>
+<h3 align="center">A passionate AI and Automation Enthusiast.</h3>
 
 - 🌱 I’m currently learning **DJango and LLM.**
 

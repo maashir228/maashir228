@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Muhammad Aashir</h1>
 <h3 align="center">A passionate AI and Automation Enthusiast.</h3>
 
-- 🌱 I’m currently learning **DJango and LLM.**
+- 🌱 I’m currently **Creating End to end apps**
 
 - 👨‍💻 All of my projects are available at [https://github.com/maashir228?tab=repositories](https://github.com/maashir228?tab=repositories)
 
-- 💬 Ask me about **Machine Learning Algorithms for classification, recommendations, times series.**
+- 💬 Ask me about **Machine Learning Algorithms for classification, recommendations, times series, and automation.**
 
 - 📫 How to reach me **123.aashir@gmail.com**
 
